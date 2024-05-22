@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal Deore
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning DJango
+- 🌱 I’m currently Developing Web Apps using DJango
 - 💞️ I’m looking to collaborate on Web Application Development
 - 📫 We can connect through linkedin https://www.linkedin.com/in/deorekunal
 
